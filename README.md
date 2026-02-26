@@ -79,23 +79,3 @@
 <!--  -->
 <!-- Github stats -->
 <!--  -->
-
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats</h2>
-<p align=center>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-    <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=OssieNomae&theme=github-dark-blue&border=61dafb&hide_border=true" alt="OssieNomae"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=OssieNomae&count_private=true&show_icons=true&theme=github_dark&hide_border=true"/>
-  </a>
-  <a href="https://github.com/rahul-jha98/github-stats-transparent" title="Go to Source">
-    <img align="center" width=390 src="https://raw.githubusercontent.com/OssieNomae/github-stats-transparent/31796b7e364484104edf39531c8c2c91115920c9/generated/overview.svg"/>
-  </a>
-</p>
-
-</div>
-
-</br>
-</br>
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=OssieNomae.OssieNomae&left_text=Total%20Visitors&left_color=blue&right_color=blue">
