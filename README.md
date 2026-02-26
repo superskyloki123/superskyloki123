@@ -1,3 +1,4 @@
+<img width="850" height="478" alt="banner" src="https://github.com/user-attachments/assets/8b69c63e-508d-4c16-a52e-35894602f1e3" />
 <p align="center">
   <a href=""><img src="images/banner.png" alt="Super Banner"></a>
 </p>
